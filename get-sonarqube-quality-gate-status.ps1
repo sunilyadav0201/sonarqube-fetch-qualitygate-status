@@ -1,4 +1,4 @@
-﻿# This script checks for Quality Gate status for a SonarQube Project
+﻿# This script checks for Quality Gate status for a SonarQube Project 
 [CmdletBinding()]
 Param(
     # Define Sonar Token
